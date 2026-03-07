@@ -1,0 +1,9 @@
+<svg width="360" height="120" viewBox="0 0 360 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="360" height="120" rx="24" fill="white"/>
+  <rect x="1" y="1" width="358" height="118" rx="23" stroke="#15A24A" stroke-opacity="0.15"/>
+  <circle cx="58" cy="60" r="26" fill="#15A24A" fill-opacity="0.12" stroke="#15A24A" stroke-width="2"/>
+  <path d="M58 45C67 45 74 52 74 61C74 70 67 77 58 77C49 77 42 70 42 61C42 52 49 45 58 45Z" fill="#15A24A"/>
+  <path d="M57.5 79C66.0604 79 73 85.9396 73 94.5H42C42 85.9396 48.9396 79 57.5 79Z" fill="#111111" fill-opacity="0.08"/>
+  <text x="98" y="54" fill="#111111" font-family="Arial, sans-serif" font-size="30" font-weight="700">DCE STEMS</text>
+  <text x="98" y="82" fill="#5F5F5F" font-family="Arial, sans-serif" font-size="16">Replace with your final logo file</text>
+</svg>
