@@ -346,13 +346,16 @@ textarea {
 
 .video-shell,
 .learn-video-placeholder {
-  aspect-ratio: 16 / 10;
   border-radius: calc(var(--radius) - 6px);
   overflow: hidden;
   background:
     radial-gradient(circle at top left, rgba(21, 162, 74, 0.22), transparent 35%),
     linear-gradient(135deg, #191919, #2b2b2b);
   color: var(--white);
+}
+
+.video-shell {
+  aspect-ratio: 16 / 9;
 }
 
 .video-placeholder,
